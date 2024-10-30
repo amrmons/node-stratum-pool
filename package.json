@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "multi-hashing": "https://github.com/amrmons/node-multi-hashing.git",
-        "bignum": "*",
+        "bignum": "0.12.5",
         "base58-native": "*",
         "async": "2.6.2"
     },
